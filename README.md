@@ -75,3 +75,4 @@ python main.py -o data/lottery.csv --start 07001 --end 24150
 本软件仅用于个人学习与研究目的，不用于任何商业或赌博用途。
 请遵守相关法律法规，尊重网站robots.txt规则。
 # lottery_downloader--
+# DoubleColorBall1--
