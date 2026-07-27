@@ -1,0 +1,15 @@
+*.mp4
+*.mkv
+*.zip
+*.bin
+*.exe
+*.dll
+*.wav
+*.mp3
+*.apk
+*.aab
+__pycache__/
+*.pyc
+*.db
+logs/
+*.log
